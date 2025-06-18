@@ -31,7 +31,7 @@ body, html {
     cursor: pointer;/* カーソルポインタ*/
 
     /* ボタンの表示設定 */
-    display: inline-block; /* リンク */
+    display: inline-block; /*  */
     text-decoration: none; /* リンクの下の線を消す*/
     text-align: center;    /* テキストを中央揃えに */
     
